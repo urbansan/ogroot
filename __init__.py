@@ -1,1 +1,3 @@
-from sciezka_do_leszka.templates import circle_template
+import os
+ROOT_DIR = os.path.dirname(os.path.abspath(__file__))
+
